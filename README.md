@@ -1,2 +1,3 @@
-# jupyter_retail_analysis
+# jupyter Retail analysis
+
 Analyze retail data using python
